@@ -1,4 +1,4 @@
 # hello-world
-Repositorio de prueba
-Felipe edition
+Repositorio de pruebas
+Felipe's
 
